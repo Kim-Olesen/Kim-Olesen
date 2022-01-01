@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kim-Olesen
+- 👋 Hi, I’m @Kim
 - 👀 I’m interested in Games, Biology, Programming
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Games, Programming (Data Science, Bioinformatics)
