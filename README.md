@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kim
-- 👀 I’m interested in Games, Biology, Programming
 - 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Games, Programming (Data Science, Bioinformatics)
 - 📫 How to reach me olesen.s.kim@gmail.com
 
 <!---
